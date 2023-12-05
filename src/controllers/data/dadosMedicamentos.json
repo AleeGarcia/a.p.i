@@ -1,0 +1,18 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "nome": "Paracetamol",
+      "fabricante": "Farmacia B",
+      "preco": 10,
+      "quantidade": 10
+    },
+    {
+      "id": 2,
+      "nome": "Adsakdas",
+      "fabricante": "dsad",
+      "preco": "213",
+      "quantidade": "123"
+    }
+  ]
+}
